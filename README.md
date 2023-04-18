@@ -18,7 +18,7 @@
 	• 메서드의 이름을 절약할 수 있다.
 
 
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/83889135/232644271-35408bd5-ccdc-44f7-9b26-b72390bc16e9.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/83889135/232644271-35408bd5-ccdc-44f7-9b26-b72390bc16e9.png">
 
 <hr>
 
@@ -92,15 +92,15 @@
 ## 4장 버튼과 에디트텍스트 (+ 소스코드)
     버튼을 클릭햇을 때 동작하는 Java 코드 3단계
    
-<img width="750" alt="스크린샷 2023-04-18 오전 10 25 18" src="https://user-images.githubusercontent.com/83889135/232645384-fc95193f-c478-4a2d-bcff-8c96af702fb8.png">
+<img width="500" alt="스크린샷 2023-04-18 오전 10 25 18" src="https://user-images.githubusercontent.com/83889135/232645384-fc95193f-c478-4a2d-bcff-8c96af702fb8.png">
 
 <hr>
 
 ## 5장 레이아웃의 종류 + 특징 + 성격 + 속성
-<img width="750" alt="스크린샷 2023-04-18 오전 10 30 59" src="https://user-images.githubusercontent.com/83889135/232646183-61477965-683a-4508-b71b-15fef11e99ad.png">
-<img width="750" alt="스크린샷 2023-04-18 오전 10 31 19" src="https://user-images.githubusercontent.com/83889135/232646234-992ea43e-6979-4638-a1a2-99bff090c06f.png">
-<img width="750" alt="스크린샷 2023-04-18 오전 10 31 25" src="https://user-images.githubusercontent.com/83889135/232646248-e86cf965-d891-4306-9dbf-d5ac4e08f37d.png">
-<img width="750" alt="스크린샷 2023-04-18 오전 10 31 58" src="https://user-images.githubusercontent.com/83889135/232646334-91538829-01fc-4eba-b48c-5bd37622ed6c.png">
+<img width="500" alt="스크린샷 2023-04-18 오전 10 30 59" src="https://user-images.githubusercontent.com/83889135/232646183-61477965-683a-4508-b71b-15fef11e99ad.png">
+<img width="500" alt="스크린샷 2023-04-18 오전 10 31 19" src="https://user-images.githubusercontent.com/83889135/232646234-992ea43e-6979-4638-a1a2-99bff090c06f.png">
+<img width="500" alt="스크린샷 2023-04-18 오전 10 31 25" src="https://user-images.githubusercontent.com/83889135/232646248-e86cf965-d891-4306-9dbf-d5ac4e08f37d.png">
+<img width="500" alt="스크린샷 2023-04-18 오전 10 31 58" src="https://user-images.githubusercontent.com/83889135/232646334-91538829-01fc-4eba-b48c-5bd37622ed6c.png">
 
 <hr>
 
@@ -158,7 +158,7 @@
 <hr>
 
 # 안드로이드 앱 매니페스트 개요  AndroidManifest.xml
-<img width="750" alt="스크린샷 2023-04-18 오후 12 27 01" src="https://user-images.githubusercontent.com/83889135/232663375-16642bc1-678b-4e08-a729-6d2353dd4504.png">
+<img width="500" alt="스크린샷 2023-04-18 오후 12 27 01" src="https://user-images.githubusercontent.com/83889135/232663375-16642bc1-678b-4e08-a729-6d2353dd4504.png">
 
 	매니페스트 파일에는 많은 정보를 담을 수 있지만 그중에서도 특히 선언되어야 하는 정보가 있습니다.
 		• 앱의 패키지 이름
@@ -169,4 +169,4 @@
 <hr>
 
 # 인의예지신 중도
- <img width="750" alt="스크린샷 2023-04-18 오전 11 13 23" src="https://user-images.githubusercontent.com/83889135/232652251-211d7743-b1ee-4bfb-a813-5b0e18b93704.png">
+ <img width="500" alt="스크린샷 2023-04-18 오전 11 13 23" src="https://user-images.githubusercontent.com/83889135/232652251-211d7743-b1ee-4bfb-a813-5b0e18b93704.png">
